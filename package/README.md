@@ -8,4 +8,4 @@ For example you can create `OpacityTransition` component based on this package a
 </OpacityTransition>
 ```
 
-See full example [here](https://github.com/mavajee/react-nullable-transition/tree/master/example) or on [codesandbox](https://codesandbox.io/s/billowing-browser-6hlo9?file=/src/index.tsx).
+See full example on [codesandbox](https://codesandbox.io/s/billowing-browser-6hlo9?file=/src/index.tsx)

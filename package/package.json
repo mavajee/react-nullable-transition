@@ -1,10 +1,13 @@
 {
   "name": "react-nullable-transition",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "",
   "main": "dist/index.js",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "scripts": {
+    "publish": "npm publish"
+  },
   "keywords": [
     "animation",
     "transition",
